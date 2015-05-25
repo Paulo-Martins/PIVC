@@ -6,10 +6,39 @@
 	objectVersion = 46;
 	objects = {
 
+/* Begin PBXFileReference section */
+		65D1DFA71B0E307200E54745 /* pivc.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = pivc.py; sourceTree = "<group>"; };
+		65D1DFA81B0E309F00E54745 /* soda.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = soda.png; sourceTree = "<group>"; };
+		65D1DFA91B0E323000E54745 /* circle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = circle.png; sourceTree = "<group>"; };
+		65D1DFAA1B0E32D600E54745 /* circle2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = circle2.png; sourceTree = "<group>"; };
+		65D1DFAB1B0E350100E54745 /* circle3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = circle3.png; sourceTree = "<group>"; };
+		65D1DFAE1B0E3AFA00E54745 /* pivc2.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = pivc2.py; sourceTree = "<group>"; };
+		65D1DFAF1B0E3CE000E54745 /* circle_def1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = circle_def1.png; sourceTree = "<group>"; };
+		65D1DFB01B0E3CEA00E54745 /* circle_nodef1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = circle_nodef1.png; sourceTree = "<group>"; };
+		65D1DFB41B0F335E00E54745 /* cgroup_def1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cgroup_def1.png; sourceTree = "<group>"; };
+		65D1DFB51B10C1E300E54745 /* silver.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = silver.jpg; sourceTree = "<group>"; };
+		65D1DFB61B10C46600E54745 /* pivc3.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = pivc3.py; sourceTree = "<group>"; };
+		65D1DFB71B10C51000E54745 /* silver_def.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = silver_def.jpg; sourceTree = "<group>"; };
+		65D1DFB81B10D0E100E54745 /* silver2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = silver2.jpg; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		65D1DF9C1B0E2F9C00E54745 = {
 			isa = PBXGroup;
 			children = (
+				65D1DFB51B10C1E300E54745 /* silver.jpg */,
+				65D1DFB41B0F335E00E54745 /* cgroup_def1.png */,
+				65D1DFB01B0E3CEA00E54745 /* circle_nodef1.png */,
+				65D1DFAF1B0E3CE000E54745 /* circle_def1.png */,
+				65D1DFAE1B0E3AFA00E54745 /* pivc2.py */,
+				65D1DFB61B10C46600E54745 /* pivc3.py */,
+				65D1DFB71B10C51000E54745 /* silver_def.jpg */,
+				65D1DFA71B0E307200E54745 /* pivc.py */,
+				65D1DFB81B10D0E100E54745 /* silver2.jpg */,
+				65D1DFAB1B0E350100E54745 /* circle3.png */,
+				65D1DFAA1B0E32D600E54745 /* circle2.png */,
+				65D1DFA91B0E323000E54745 /* circle.png */,
+				65D1DFA81B0E309F00E54745 /* soda.png */,
 			);
 			sourceTree = "<group>";
 		};
