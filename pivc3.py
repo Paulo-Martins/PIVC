@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 from scipy import ndimage
 
-im = cv2.imread('silver2.jpg')
+im = cv2.imread('silver_def.jpg')
 
 gray=cv2.cvtColor(im,cv2.COLOR_BGR2GRAY)
 gray = ndimage.median_filter(gray,9)

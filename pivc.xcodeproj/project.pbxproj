@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXFileReference section */
+		654BCBEC1B17D26600970DB8 /* Video.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = Video.py; sourceTree = "<group>"; };
+		654BCBED1B1CDFBA00970DB8 /* video2.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = video2.py; sourceTree = "<group>"; };
+		654BCBEE1B1CE2C600970DB8 /* imutils.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = imutils.py; sourceTree = "<group>"; };
+		654BCBF01B1E18F600970DB8 /* simple.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = simple.py; sourceTree = "<group>"; };
 		65D1DFA71B0E307200E54745 /* pivc.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = pivc.py; sourceTree = "<group>"; };
 		65D1DFA81B0E309F00E54745 /* soda.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = soda.png; sourceTree = "<group>"; };
 		65D1DFA91B0E323000E54745 /* circle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = circle.png; sourceTree = "<group>"; };
@@ -21,19 +25,25 @@
 		65D1DFB71B10C51000E54745 /* silver_def.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = silver_def.jpg; sourceTree = "<group>"; };
 		65D1DFB81B10D0E100E54745 /* silver2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = silver2.jpg; sourceTree = "<group>"; };
 		65D1DFB91B174FF800E54745 /* histograma.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = histograma.py; sourceTree = "<group>"; };
+		65D1DFBA1B1764F300E54745 /* Cany_edge.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = Cany_edge.py; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		65D1DF9C1B0E2F9C00E54745 = {
 			isa = PBXGroup;
 			children = (
+				654BCBF01B1E18F600970DB8 /* simple.py */,
 				65D1DFB51B10C1E300E54745 /* silver.jpg */,
 				65D1DFB41B0F335E00E54745 /* cgroup_def1.png */,
 				65D1DFB01B0E3CEA00E54745 /* circle_nodef1.png */,
 				65D1DFAF1B0E3CE000E54745 /* circle_def1.png */,
 				65D1DFAE1B0E3AFA00E54745 /* pivc2.py */,
 				65D1DFB61B10C46600E54745 /* pivc3.py */,
+				654BCBEC1B17D26600970DB8 /* Video.py */,
+				654BCBED1B1CDFBA00970DB8 /* video2.py */,
+				654BCBEE1B1CE2C600970DB8 /* imutils.py */,
 				65D1DFB91B174FF800E54745 /* histograma.py */,
+				65D1DFBA1B1764F300E54745 /* Cany_edge.py */,
 				65D1DFB71B10C51000E54745 /* silver_def.jpg */,
 				65D1DFA71B0E307200E54745 /* pivc.py */,
 				65D1DFB81B10D0E100E54745 /* silver2.jpg */,
@@ -208,6 +218,7 @@
 				65D1DFA61B0E2F9C00E54745 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
