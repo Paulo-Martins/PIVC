@@ -56,3 +56,10 @@ def resize(image, width = None, height = None, inter = cv2.INTER_AREA):
 
 	# return the resized image
 	return resized
+
+def checkdefeitos(image, x, y,r):
+    imagep=image
+    pixel = img[x+r*math.cos(math.PI)*r, y+math.sin(math.PI)*r]
+    imagep[pixel]=(red,0,0)
+    return imagep
+   

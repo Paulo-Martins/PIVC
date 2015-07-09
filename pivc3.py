@@ -6,7 +6,7 @@ im = cv2.imread('silver_def.jpg')
 
 gray=cv2.cvtColor(im,cv2.COLOR_BGR2GRAY)
 gray = ndimage.median_filter(gray,9)
-gray=cv2.threshold(gray,90,255,cv2.THRESH_BINARY)[1]
+gray=cv2.threshold(gray,80,255,cv2.THRESH_BINARY)[1]
 
 #gray = ndimage.gaussian_filter(gray, sigma=5)
 cv2.imshow('gray',gray)
