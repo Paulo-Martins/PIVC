@@ -17,7 +17,7 @@ while True:
     frame = imutils.resize(frame, width = 500)
     cv2.imshow("Face", frame)
 
-camera.release()
+
 
 # convert escala cinza e aplica filtro blur + bilateral
 image = frame.copy()

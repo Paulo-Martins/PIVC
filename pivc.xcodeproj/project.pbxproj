@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
+		6521CCB91B6906D900746154 /* simpleV2.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = simpleV2.py; sourceTree = "<group>"; };
 		654BCBEC1B17D26600970DB8 /* Video.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = Video.py; sourceTree = "<group>"; };
 		654BCBED1B1CDFBA00970DB8 /* video2.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = video2.py; sourceTree = "<group>"; };
 		654BCBEE1B1CE2C600970DB8 /* imutils.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = imutils.py; sourceTree = "<group>"; };
@@ -33,6 +34,7 @@
 			isa = PBXGroup;
 			children = (
 				654BCBF01B1E18F600970DB8 /* simple.py */,
+				6521CCB91B6906D900746154 /* simpleV2.py */,
 				65D1DFB51B10C1E300E54745 /* silver.jpg */,
 				65D1DFB41B0F335E00E54745 /* cgroup_def1.png */,
 				65D1DFB01B0E3CEA00E54745 /* circle_nodef1.png */,
